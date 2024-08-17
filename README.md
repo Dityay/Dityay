@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FreakyFriday12
-- 👀 I’m interested in ROM Development
-- 🌱 I’m currently learning Android ROMs
+- Dityaa 15 y/o
+- Redmi 12C dev
 
 <!---
 FreakyFriday12/FreakyFriday12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
