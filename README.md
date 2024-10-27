@@ -4,7 +4,7 @@ Hi! I'm Ditya, I'm a Redmi 12C ROM dev.
 
 # My Current Project:
 - PireDroid GSI
-- HyperFlow (@spellydev)
+- HyperFlow OSS (@spellydev)
 
 <!---
 FreakyFriday12/FreakyFriday12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
