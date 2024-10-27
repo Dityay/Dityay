@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled6_20241027181840.png">
+
 - Dityaa 15 y/o
 - Redmi 12C dev
 
