@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled6_20241027181840.png">
 
-Hi! I'm Ditya, I'm a Redmi 12C ROM dev.
+Hi! I'm Ditya
 
 # My Current Project:
 - PireDroid GSI
 - HyperFlow OSS (@spellydev)
 
-# Stats stuff (idk why i add it here lmao)
+# Stats stuff (cuz looks cool)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dityay&show_icons=true&theme=onedark&count_private=true)
 
