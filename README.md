@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Untitled6_20241027181840.png">
+<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Ditya.png">
 
 Hi! I'm Ditya
 
