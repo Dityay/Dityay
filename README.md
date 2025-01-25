@@ -3,7 +3,7 @@
 Hi! I'm Ditya
 
 # My Current Project:
-- PireDroid GSI
+- SunDroid GSI (@sundroid_updates)
 - HyperFlow OSS (@spellydev)
 
 # Stats stuff (cuz looks cool)
