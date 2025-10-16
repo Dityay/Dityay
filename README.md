@@ -3,8 +3,9 @@
 Hi! I'm Ditya
 
 # My Current Project:
-- SunDroid GSI (@sundroid_updates)
-- HyperFlow OSS (@spellydev)
+- ROM Ports for my device (Redmi 12C)
+- SunDroid GSI (@sundroid_updates) [EOL]
+- HyperFlow OSS (@spellydev) [EOL]
 
 # Stats stuff (cuz looks cool)
 
