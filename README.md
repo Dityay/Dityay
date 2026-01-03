@@ -3,10 +3,8 @@
 Hi! I'm Ditya
 
 # My Current Project:
-- ROM Ports for my device (Redmi 12C)
-- SunDroid GSI (@sundroid_updates) [EOL]
-- HyperFlow OSS (@spellydev) [EOL]
-
+- ROM Ports for my device (Redmi 10C, https://dityay.github.io)
+  
 # Stats stuff (cuz looks cool)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dityay&show_icons=true&theme=onedark&count_private=true)
