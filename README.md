@@ -1,15 +1,35 @@
-<img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Ditya.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Ditya.png" width="100%">
+</p>
 
-Hi! I'm Ditya
+<h1 align="center">Hi! I'm Ditya 👋</h1>
 
-# My Current Project:
-- ROM Ports for my device (Redmi 10C, https://dityay.github.io)
-  
-# Stats stuff (cuz looks cool)
+<p align="center">
+  <strong>Android Developer | SMK PPLG Student | Custom ROM Enthusiast</strong>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Dityay&show_icons=true&theme=onedark&count_private=true)
+---
 
-<!---
-FreakyFriday12/FreakyFriday12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 My Current Project
+* **ROM Ports:** Currently focusing on Redmi 10C (**fog**).
+* **Portfolio:** [dityay.github.io](https://dityay.github.io)
+* **Active Support:** Developing and debugging UI/System for HyperOS & ColorOS ports.
+
+---
+
+### 📊 GitHub Stats (cuz looks cool)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dityay&show_icons=true&theme=onedark&count_private=true" alt="Ditya's Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dityay&layout=compact&theme=onedark" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
