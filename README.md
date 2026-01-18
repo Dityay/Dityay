@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dityay&show_icons=true&theme=onedark&count_private=true" alt="Ditya's Stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dityay&layout=compact&theme=onedark" alt="Top Languages" height="170" />
 </p>
 
 ---
