@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/Ditya.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/88720b50-ebc2-43f4-adbe-652439472d7f.jpg" width="100%">
 </p>
 
 <h1 align="center">Hi! I'm Ditya 👋</h1>
