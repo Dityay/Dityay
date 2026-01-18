@@ -13,7 +13,7 @@
 ### 🛠 My Current Project
 * **ROM Ports:** Currently focusing on Redmi 10C (**fog**).
 * **Portfolio:** [dityay.github.io](https://dityay.github.io)
-* **Active Support:** Developing and debugging UI/System for HyperOS & ColorOS ports.
+* **Active Support:** Developing and debugging UI/System for HyperOS ports.
 
 ---
 
