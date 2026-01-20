@@ -3,7 +3,7 @@
 <h1 align="center">Hi! I'm Ditya 👋</h1>
 
 <p align="center">
-  <strong>Android Developer | SMK PPLG Student | Custom ROM Enthusiast</strong>
+  <strong>Android Developer | Custom ROM Enthusiast</strong>
 </p>
 
 ---
